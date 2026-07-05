@@ -9,6 +9,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0001-two-sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,12 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0018-4sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
