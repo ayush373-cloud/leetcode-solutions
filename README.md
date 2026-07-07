@@ -27,6 +27,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0018-4sum) |
+| [0086-partition-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
