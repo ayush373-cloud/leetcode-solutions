@@ -67,6 +67,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0037-sudoku-solver](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,4 +120,9 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
