@@ -15,6 +15,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0040-combination-sum-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0037-sudoku-solver](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
@@ -125,4 +127,8 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
