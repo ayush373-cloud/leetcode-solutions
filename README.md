@@ -44,6 +44,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0005-longest-palindromic-substring](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0091-decode-ways](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Heap (Priority Queue)
 |  |
