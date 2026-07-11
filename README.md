@@ -116,17 +116,20 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
@@ -136,4 +139,8 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
