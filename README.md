@@ -116,6 +116,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -123,6 +124,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -131,6 +133,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -138,6 +141,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
