@@ -47,6 +47,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0006-zigzag-conversion](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0085-maximal-rectangle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0089-gray-code](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
