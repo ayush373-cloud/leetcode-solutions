@@ -16,6 +16,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0054-spiral-matrix](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0037-sudoku-solver](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,4 +157,9 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
