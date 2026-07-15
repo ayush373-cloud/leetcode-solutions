@@ -15,6 +15,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0040-combination-sum-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 ## Hash Table
@@ -67,6 +68,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0005-longest-palindromic-substring](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
