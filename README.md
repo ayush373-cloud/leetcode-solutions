@@ -49,6 +49,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0038-count-and-say](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0091-decode-ways](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
