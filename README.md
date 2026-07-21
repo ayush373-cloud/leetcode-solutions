@@ -18,6 +18,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0088-merge-sorted-array](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0134-gas-station) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,4 +178,8 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
