@@ -19,6 +19,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0089-gray-code](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0136-single-number) |
 ## Breadth-First Search
 |  |
 | ------- |
