@@ -29,12 +29,14 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0036-valid-sudoku](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
