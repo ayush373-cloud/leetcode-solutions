@@ -21,6 +21,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0134-gas-station](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0037-sudoku-solver](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0091-decode-ways](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,4 +192,12 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0134-gas-station) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
