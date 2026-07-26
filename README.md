@@ -41,6 +41,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0023-merge-k-sorted-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -151,6 +152,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -162,6 +164,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
@@ -176,6 +179,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -197,6 +201,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0100-same-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
 ## Union-Find
