@@ -22,6 +22,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0136-single-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0018-4sum](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -226,4 +230,8 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
