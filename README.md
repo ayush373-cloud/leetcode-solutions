@@ -50,6 +50,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0089-gray-code) |
+| [0168-excel-sheet-column-title](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0131-palindrome-partitioning](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
+| [0168-excel-sheet-column-title](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Sliding Window
 |  |
 | ------- |
