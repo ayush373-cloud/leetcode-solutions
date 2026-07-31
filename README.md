@@ -35,6 +35,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 ## Linked List
@@ -48,6 +49,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0138-copy-list-with-random-pointer](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
@@ -254,4 +256,12 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
