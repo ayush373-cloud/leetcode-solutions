@@ -266,4 +266,8 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
