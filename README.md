@@ -56,6 +56,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -85,6 +86,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
