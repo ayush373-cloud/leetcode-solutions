@@ -93,6 +93,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0090-subsets-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
