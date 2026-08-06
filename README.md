@@ -38,6 +38,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0146-lru-cache](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0089-gray-code](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0292-nim-game) |
 ## Recursion
 |  |
@@ -104,6 +106,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0141-linked-list-cycle](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,4 +279,8 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0175-combine-two-tables](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0197-rising-temperature) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
