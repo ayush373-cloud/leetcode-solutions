@@ -23,6 +23,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0137-single-number-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0088-merge-sorted-array](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
