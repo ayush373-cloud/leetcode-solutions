@@ -24,6 +24,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0171-excel-sheet-column-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0292-nim-game) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
