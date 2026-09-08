@@ -42,6 +42,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -90,6 +91,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0139-word-break](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
