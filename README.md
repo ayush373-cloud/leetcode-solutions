@@ -211,6 +211,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Greedy
 |  |
 | ------- |
@@ -309,4 +312,12 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
