@@ -61,6 +61,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0147-insertion-sort-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
