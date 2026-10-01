@@ -46,6 +46,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0217-contains-duplicate](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0895-maximum-frequency-stack](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0895-maximum-frequency-stack](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0895-maximum-frequency-stack](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -324,4 +327,8 @@ A structured collection of LeetCode solutions — organized by topic and difficu
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0207-course-schedule) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/ayush373-cloud/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
